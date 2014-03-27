@@ -1,0 +1,59 @@
+.tile-2 .tile-inner {
+	background-image: url(../imgs/para.jpg) !important;
+}
+
+.tile-4 .tile-inner {
+	background-image: url(../imgs/saimon.jpg) !important;
+}
+
+.tile-8 .tile-inner {
+	background-image: url(../imgs/wjose.jpg) !important;
+}
+
+.tile-16 .tile-inner {
+	background-image: url(../imgs/cadu.jpg) !important;
+}
+
+.tile-32 .tile-inner {
+	background-image: url(../imgs/adriano.jpg) !important;
+}
+
+.tile-64 .tile-inner {
+	background-image: url(../imgs/cocito.jpg) !important;
+}
+
+.tile-128 .tile-inner {
+	background-image: url(../imgs/itaqui.jpg) !important;
+}
+
+.tile-256 .tile-inner {
+	background-image: url(../imgs/cris.jpg) !important;
+}
+
+.tile-512 .tile-inner {
+	background-image: url(../imgs/grolli.jpg) !important;
+}
+
+.tile-1024 .tile-inner {
+	background-image: url(../imgs/lipatin.jpg) !important;
+}
+
+.tile-2048 .tile-inner {
+	background-image: url(../imgs/paulo-nunes.jpg) !important;
+}
+
+$cor : #f9f6f2;
+.tile-inner {
+	color: rgba($cor, .5) !important;
+	background-size: 100% !important ;
+	font-size: 1em !important;
+	position: relative;
+}
+
+.score-container:after {
+content: "Pontos" !important;
+}
+
+.best-container:after {
+content: "Melhor" !important;
+}
