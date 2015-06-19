@@ -745,6 +745,12 @@ hr {
 .tile-4096 .tile-inner {
   background-image: url(../imgs/jardel.jpg) !important; }
 
+.tile-8192 .tile-inner {
+  background-image: url(../imgs/8192.jpg) !important; }
+
+.tile-16384 .tile-inner {
+  background-image: url(../imgs/16384.jpg) !important; }
+
 .tile-inner {
   color: rgba(249, 246, 242, 0.5) !important;
   background-size: 100% !important;
